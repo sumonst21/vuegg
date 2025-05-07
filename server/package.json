@@ -16,21 +16,21 @@
   "dependencies": {
     "@octokit/rest": "^14.0.9",
     "archiver": "^2.1.1",
-    "koa": "^2.5.1",
+    "koa": "^2.16.1",
     "koa-body": "^2.5.0",
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
     "koa2-history-api-fallback": "0.0.5",
     "ora": "^1.4.0",
-    "request": "^2.85.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.5",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "shortid": "^2.2.8",
     "string": "^3.3.3"
   },
   "devDependencies": {
-    "nodemon": "^1.17.4"
+    "nodemon": "^3.1.9"
   },
   "repository": {
     "type": "git",
